@@ -14,7 +14,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "rust-server"
+name = "rustserver"
 version = "0.1.0"
 dependencies = [
  "ferris-says",
